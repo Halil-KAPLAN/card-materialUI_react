@@ -36,4 +36,6 @@ $ npm run dev
 
 Visit http://localhost:5173/ to view the Material UI Card Example in your browser.
 
-Feel free to explore, modify, and use this project as a starting point for your own development! If you have any questions or feedback, don't hesitate to reach out. Happy coding!
+Feel free to explore, modify, and use this project as a starting point for your own development! If you have any questions or feedback, don't hesitate to reach out.
+
+Happy coding!
