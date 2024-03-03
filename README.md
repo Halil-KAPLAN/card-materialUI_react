@@ -1,4 +1,4 @@
-# Material UI Card Example,
+# Material UI Card Example
 
 Welcome to the Material UI Card Example! This project showcases a simple card implementation using Material UI, built with React(Vite) and TypeScript.
 
