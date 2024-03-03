@@ -1,30 +1,39 @@
-# React + TypeScript + Vite
+# Material UI Card Example,
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Material UI Card Example! This project showcases a simple card implementation using Material UI, built with React(Vite) and TypeScript.
 
-Currently, two official plugins are available:
+This example is published on the following site. You can check:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Explore the live demo: https://card-materialui.netlify.app
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+**Client:** React(Vite), Material UI, TypeScript
 
-- Configure the top-level `parserOptions` property like this:
+![alt text](public/screenshots/ss.png?raw=true)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+## Getting Started
+
+Before you begin, make sure you have NodeJS installed on your machine. If not, download and install it along with npm [here](https://nodejs.org/en/). Additionally, ensure you have an editor (such as VSCode: [Visual Studio Code](https://code.visualstudio.com/)).
+
+## Installation
+
+Open a terminal or command prompt inside the project folder and install the dependencies:
+
+```Bash
+# Install project dependencies
+$ npm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Running the Project
+
+After installing the dependencies, start the project by running the following command in the terminal:
+
+```Bash
+# Run the project locally
+$ npm run dev
+```
+
+Visit http://localhost:5173/ to view the Material UI Card Example in your browser.
+
+Feel free to explore, modify, and use this project as a starting point for your own development! If you have any questions or feedback, don't hesitate to reach out. Happy coding!
