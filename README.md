@@ -2,8 +2,6 @@
 
 Welcome to the Material UI Card Example! This project showcases a simple card implementation using Material UI, built with React(Vite) and TypeScript.
 
-This example is published on the following site. You can check:
-
 Explore the live demo: https://card-materialui.netlify.app
 
 ## Tech Stack
